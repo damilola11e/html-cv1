@@ -1,0 +1,36 @@
+h1{
+font-family:'Sofia', cursive;
+}
+.container{
+  background-color: #e4f9f5;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.programmer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #FFF4F4;
+  height: 300px;
+}
+.second-container{
+  background-color: aquamarine;
+  align-items: center;
+  flex-direction: column;
+  display: flex;
+}
+.French{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ECE5C7;
+  height: 200px;
+  grid-gap: 10px;
+}
